@@ -2,6 +2,7 @@
   "name": "burningyolo/api-doc-generator",
   "description": "A PHP package to generate API documentation",
   "type": "library",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "ApiDocGenerator\\": "src/"
